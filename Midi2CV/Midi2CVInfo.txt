@@ -1,4 +1,7 @@
-Midi to CV:		
+Midi to CV will take a 5 pin midi IN and turn it in to the following cv outputs;
+clock, trigger, gate, reset, pitch, velocity, modulation, and pitchbend
+
+Midi to CV parts:		
 1 x microcontroller 		- $2
 4 x Op Amp 			- $0.35
 2 x 12 bit DAC			- $6
