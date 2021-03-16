@@ -1,0 +1,16 @@
+Midi to CV:		
+1 x microcontroller 		- $2
+4 x Op Amp 			- $0.35
+2 x 12 bit DAC			- $6
+1 x optocoupler			- $0.50
+7 x jack sockets		- $4.55
+1 x 5 pin Midi Jack		- $1.75
+protoBoard
+capacitors
+resistors
+diodes
+cables
+panel 
+Refrences:
+https://translate.google.com/translate?hl=en&sl=auto&tl=en&u=https://note.com/solder_state/n/n17e028497eba
+https://github.com/elkayem/midi2cv
