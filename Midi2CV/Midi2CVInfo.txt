@@ -14,6 +14,7 @@ resistors
 diodes
 cables
 panel 
+power supply
 Refrences:
 https://translate.google.com/translate?hl=en&sl=auto&tl=en&u=https://note.com/solder_state/n/n17e028497eba
 https://github.com/elkayem/midi2cv
