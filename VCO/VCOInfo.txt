@@ -1,0 +1,29 @@
+Simple VCO will outup a square and saw wave. It has cv input for pitch and knobs to controll the following;
+Tune,Fine Tune, and Pulse Width
+There is also an interal trimmer that should be tuned before final asembly 
+
+simple VCO - saw/sqr	
+3 x Op Amp				
+2 x trigger inverter	
+1 x pnp transistor		
+1 x npn transistor		
+3 x 100k potentiometers 
+1 x 1k trimmer			
+3 x 10k thermistor NTC	
+3 x jack sockets		
+diodees
+capacitorsresistors
+cables
+panel
+protoBoard
+power supply
+
+Refrences:
+https://www.youtube.com/watch?v=OCAb2UoSPs0
+https://www.lookmumnocomputer.com/projects/#/cem-3340-diy-simple
+https://www.eddybergman.com/2019/11/synthesizer-build-part-2-vco.html
+https://www.qsl.net/va3iul/High_Frequency_VCO_Design_and_Schematics/High_Frequency_VCO_Design_and_Schematics.htm
+https://makingcircuits.com/blog/simple-oscillator-circuits/
+https://www.instructables.com/Build-a-Square-Wave-Oscillator-Part-1-of-DIY-Mod/
+https://www.synthtopia.com/content/2015/11/08/diy-synth-building-oscillators/
+https://www.youtube.com/watch?v=SE9ZtG0E58g
