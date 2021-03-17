@@ -1,0 +1,25 @@
+Power supply taking DC in and turning it into a flying bus with +12, -12, +5, and GND
+
+Power Supply:
+DC wall Adapter
+DC Jack
+6 x 4700 uf electrolyic capacitors 35+v
+2 x 220 uf electrolyic capacitors
+1 x +12 voltage regulator
+1 x -12 voltage regulator
+1 x +125c voltage regulator
+3 x rectifier diode (1N4007)
+capacitors
+heatsinks
+thermalpaste
+switch
+output header
+floating bus (https://modularsynthlab.com/product/eurorack-flying-bus-board-cable-8x-or-10x-16pin-connectors/)
+
+
+Refrences:
+https://www.youtube.com/watch?v=pQKN30Mzi2g
+https://www.instructables.com/Eurorack-Synthesizer-Power-Supply/
+https://circuits-diy.com/%C2%B112v-dual-power-supply-using-zener-diodes-diy/
+https://www.instructables.com/Dual-Power-Supply-Circuit12V-and-12V/
+https://www.eleccircuit.com/12v-to-5v-converter-step-down-3a-regulator/
