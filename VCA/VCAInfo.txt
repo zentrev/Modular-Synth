@@ -1,0 +1,22 @@
+VCA with cv input, input amout, and level. takes signal in send amplified singlal out
+
+VCA:
+2 x Op Amp
+1 x transconductance amplifiers (lm13700)
+2 x 100k potentiometer
+1 x pnp transistor
+3 x jack sockets
+1 x power supply
+capacitors
+resistors
+diodes
+panel
+protoBoard 
+cabel
+
+
+Refrences:
+https://electricdruid.net/design-a-eurorack-vintage-vca-with-the-lm13700/
+https://kassu2000.blogspot.com/2015/10/vca.html
+http://musicfromouterspace.com/index.php?MAINTAB=SYNTHDIY&PROJARG=YOURANALOGSYNTH/page2.php?b=b&VPW=1418&VPH=1189
+http://yusynth.net/Modular/EN/VCA/index.html
